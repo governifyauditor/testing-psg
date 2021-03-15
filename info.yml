@@ -3,8 +3,8 @@ project:
   owner: 'governify'
   teamId: '5'
   identities:
-    heroku:
-      url: 'https://testing-psg.herokuapp.com/'
+    pivotal:
+      url: 'https://github.com/cesgarpas/test2'
   members:
     member1:
       name: 'Governify'
