@@ -3,8 +3,8 @@ project:
   owner: 'governify'
   teamId: '5'
   identities:
-    pivotal:
-      url: 'https://github.com/cesgarpas/test2'
+    github:
+      url: 'https://github.com/governifyauditor/testing-psg'
   members:
     member1:
       name: 'Governify'
